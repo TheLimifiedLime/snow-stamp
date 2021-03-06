@@ -70,11 +70,16 @@
 </main>
 
 <style>
+	:root {
+		background-color: #011627;
+	}
+
 	main {
 		text-align: center;
 		padding: 1em 0;
 		max-width: 348px;
 		margin: 0 auto;
+		background-color: #011627;
 	}
 
 	main h2 {
