@@ -79,7 +79,6 @@
 		padding: 1em 0;
 		max-width: 348px;
 		margin: 0 auto;
-		
 	}
 
 	main h2 {
