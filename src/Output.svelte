@@ -42,7 +42,7 @@
 
 	section time {
 		font-size: 1.8em;
-		color: #69eaff;
+		color: #82aaff;
 		line-height: 1;
 	}
 
