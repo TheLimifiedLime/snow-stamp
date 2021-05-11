@@ -28,6 +28,7 @@
 		background: rgba(0, 0, 0, 0.75);
 		padding: 1em 1.5em;
 		white-space: nowrap;
+		border-radius: 0.5em;
 	}
 
 	section p {

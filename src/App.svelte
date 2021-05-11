@@ -101,6 +101,7 @@
 		width: 100%;
 		margin: 0;
 		padding: 0.5em 0.5em 0.5em 2em;
+		border-radius: 0.5em;
 	}
 
 	.input-icon {
