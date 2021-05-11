@@ -1,6 +1,6 @@
 # ❄️ Snow-Stamp
 
-I couldn't find a page anywhere that let you just paste in a Discord snowflake to get the timestamp.
+I couldn't find a page anywhere that let you paste in a Discord snowflake to get the timestamp.
 
 So I made one.
 
@@ -11,7 +11,7 @@ So I made one.
 Pull requests and issues are welcome!
 
 - Add me on Discord `vegeta897#7777`
-- [Send me a tip](https://paypal.me/spikowski)
+- [Buy me a coffee](https://www.buymeacoffee.com/vegeta897)
 
 ## Develop
 
