@@ -87,7 +87,7 @@
 	}
 
 	h1 {
-		color: #008dad;
+		color: #82aaff;
 		font-size: 2em;
 	}
 
