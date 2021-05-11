@@ -23,10 +23,14 @@
 	}
 
 	summary {
-		color: #666;
+		color: #637777;
 		font-size: 1.1em;
 		cursor: pointer;
 		font-weight: bold;
+	}
+
+	p {
+		color: #637777;
 	}
 
 	summary:focus {

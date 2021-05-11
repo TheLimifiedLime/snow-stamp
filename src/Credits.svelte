@@ -41,7 +41,7 @@
 	}
 
 	.credits {
-		color: #777;
+		color: #637777;
 		text-align: center;
 		font-size: 1em;
 		margin: 1em auto 0;

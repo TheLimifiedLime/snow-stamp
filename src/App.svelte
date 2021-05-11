@@ -93,6 +93,7 @@
 
 	p {
 		font-size: 1.3em;
+		color: #637777;
 	}
 
 	input {
