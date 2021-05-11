@@ -36,6 +36,10 @@
 </div>
 
 <style>
+	a {
+		color: #82aaff;
+	}
+
 	.credits {
 		color: #777;
 		text-align: center;
